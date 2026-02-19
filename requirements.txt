@@ -1,0 +1,12 @@
+llama-index>=0.10.0
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+
+wikipedia-api
+
+sentence-transformers
+transformers
+torch
+
+numpy
+tqdm
